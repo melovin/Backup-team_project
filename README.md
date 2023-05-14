@@ -5,4 +5,4 @@
   * WEB
   * EMAIL SENDER
   * CRON 
- >Me and my other two classmates
+ >Me, @TroliksMan and our classmate
