@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c3668a67-6e8e-4537-baf7-b6a825ffc94d": {
+      "ProjectGuid": "c3668a67-6e8e-4537-baf7-b6a825ffc94d",
+      "DisplayName": "EmailSender",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

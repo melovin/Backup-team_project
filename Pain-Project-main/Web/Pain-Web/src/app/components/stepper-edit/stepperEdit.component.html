@@ -1,0 +1,255 @@
+<form [formGroup]="form" (ngSubmit)="Submit()">
+  <mat-vertical-stepper #linearVerticalStepper="matVerticalStepper" formArrayName="formArray" [linear]="true">
+
+    <!--FIRST STEP-->
+    <mat-step formGroupName="0" [stepControl]="formArray?.get([0])!">
+      <ng-template matStepLabel>
+        <div class="headerTitle">Add clients to your configuration</div>
+      </ng-template>
+      <h1 mat-dialog-title>
+        <div class="row">
+          <h1 class="col">Clients</h1>
+          <div class="col text-end">
+            <input *ngIf="searchActive" [formControl]="searchClient" class="InputSearch" matInput>
+            <a (click)="searchActive= !searchActive" style="cursor: pointer"><i
+              style="color: #707070; margin-right: 200px;  margin-top: 2em"
+              class="fa-solid fa-magnifying-glass"></i></a>
+          </div>
+        </div>
+      </h1>
+      <div mat-dialog-content>
+        <cdk-virtual-scroll-viewport itemSize="50" class="clientsViewport">
+          <div *cdkVirtualFor="let client of clients | AddClientSearch:searchClient.value" class="clientLine">
+            <div class="row">
+              <div class="col-1">
+                <mat-checkbox [checked]="isChecked(client.id)" (change)="AddRemoveClient(client.id)"></mat-checkbox>
+              </div>
+              <div class="col-2">
+                <p>{{client.name}}</p>
+              </div>
+              <div class="col-4">
+                <p>{{client.ip}}</p>
+              </div>
+              <div class="col">
+                <p>{{client.mac}}</p>
+              </div>
+            </div>
+          </div>
+        </cdk-virtual-scroll-viewport>
+      </div>
+      <div class="Button">
+        <button mat-button matStepperNext type="button" tabindex="-1" class="ButtonYES">Next</button>
+        <button class="ButtonCANCEL" type="button" mat-button routerLink="/ui/dashboard">Cancel</button>
+      </div>
+    </mat-step>
+
+    <!--SECOND STEP-->
+    <mat-step formGroupName="1" [stepControl]="formArray?.get([1])!">
+      <ng-template matStepLabel>
+        <div class="headerTitle">Configuration</div>
+      </ng-template>
+      <!--type of backup-->
+      <mat-radio-group formControlName="backupType" aria-label="Select an option">
+        <mat-radio-button value="FB" (click)="backup = 'full'">Full backup</mat-radio-button>
+        <mat-radio-button value="DI" (click)="backup = 'diff'">Differential backup</mat-radio-button>
+        <mat-radio-button value="IN" (click)="backup = 'inc'">Incremental backup</mat-radio-button>
+      </mat-radio-group>
+      <!--retention-->
+
+      <table class="configurationTable" cellspacing="0">
+        <tr>
+          <td>
+            <p>Retention</p>
+          </td>
+          <td>
+            <mat-form-field class="example-full-widthL" appearance="fill">
+              <mat-label>Number of backups</mat-label>
+              <input formControlName="backups" type="number" matInput>
+            </mat-form-field>
+          </td>
+          <td *ngIf="backup != 'full'">
+            <mat-form-field class="example-full-widthR" appearance="fill">
+              <mat-label>Number of packages</mat-label>
+              <input formControlName="packages" type="number" matInput>
+            </mat-form-field>
+          </td>
+          <!--Backup format-->
+          <td>
+            <p class="backupFormatHeader">Backup format</p>
+          </td>
+          <td>
+            <mat-radio-group formControlName="backupFormat" aria-label="Select an option" class="backupFormat">
+              <mat-radio-button value="PT" name="backupType">Plain text</mat-radio-button>
+              <mat-radio-button value="AR" name="backupType">Archive</mat-radio-button>
+            </mat-radio-group>
+          </td>
+        </tr>
+      </table>
+      <!--Frequency-->
+      <!--BASIC-->
+      <table class="configurationTable" cellspacing="0">
+        <span class="basicFrequency" *ngIf="frequentionBasic">
+        <tr>
+          <td>
+            <p class="frequencyHeader">Frequency</p>
+          </td>
+          <td>
+            <mat-radio-button value="basic" name="frequetnionType" checked>Basic</mat-radio-button><br>
+            <mat-radio-button value="advanced" name="frequetnionType"
+                              (click)="frequentionBasic = false">Advanced</mat-radio-button>
+          </td>
+            <td>
+              <mat-radio-button value="3" name="group2" checked (click)="frequention = 'daily'">Daily</mat-radio-button><br>
+              <mat-radio-button value="4" name="group2" (click)="frequention = 'weekly'">Weekly</mat-radio-button><br>
+              <mat-radio-button value="5" name="group2" (click)="frequention = 'monthly'">Monthly</mat-radio-button>
+            </td>
+            <div class="days" *ngIf="frequention == 'weekly'">
+              <td>
+                <div class="checkbox">
+                  <mat-checkbox (change)="AddRemoveDayWeek(1)">Monday</mat-checkbox><br>
+                  <mat-checkbox (change)="AddRemoveDayWeek(2)">Tuesday</mat-checkbox><br>
+                  <mat-checkbox (change)="AddRemoveDayWeek(3)">Wednesday</mat-checkbox><br>
+                  <mat-checkbox (change)="AddRemoveDayWeek(4)">Thursday</mat-checkbox><br>
+                  <mat-checkbox (change)="AddRemoveDayWeek(5)">Friday</mat-checkbox>
+                </div>
+              </td>
+              <td>
+                <mat-checkbox (change)="AddRemoveDayWeek(6)" class="checkSecondColumn">Saturday</mat-checkbox><br>
+                <mat-checkbox (change)="AddRemoveDayWeek(7)" class="checkSecondColumn">Sunday</mat-checkbox>
+              </td>
+            </div>
+              <td class="days" *ngIf="frequention == 'monthly'">
+                <mat-form-field appearance="fill">
+                  <mat-label>Day of month</mat-label>
+                  <input formControlName="dayOfMonth" matInput type="number">
+                </mat-form-field>
+              </td>
+            <td>
+              <mat-form-field class="example-full-width" appearance="fill">
+                <mat-label>Start at</mat-label>
+                <input formControlName="frequency" matInput type="time">
+              </mat-form-field>
+            </td>
+          </tr>
+          </span>
+        <!--ADVANCED-->
+        <span class="advancedFrequency" *ngIf="!frequentionBasic">
+          <tr>
+            <td>
+             <p class="frequencyHeader">Frequency</p>
+            </td>
+          <td>
+            <mat-radio-button value="basic" name="frequetnionType"
+                              (click)="frequentionBasic = true">Basic</mat-radio-button><br>
+            <mat-radio-button value="advanced" name="frequetnionType" checked>Advanced</mat-radio-button>
+          </td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+          <td>
+            <mat-form-field class="inputWrapper" appearance="fill" style="margin-left: 5em">
+              <mat-label>Minute</mat-label>
+                <input formControlName="minute" class="cronInput" matInput>
+            </mat-form-field>
+          </td>
+          <td>
+            <mat-form-field class="inputWrapper" appearance="fill">
+              <mat-label>Hour</mat-label>
+                <input formControlName="hour" class="cronInput" matInput>
+            </mat-form-field>
+          </td>
+          <td>
+            <mat-form-field class="inputWrapper" appearance="fill">
+              <mat-label>Day(M)</mat-label>
+                <input formControlName="dayM" class="cronInput" matInput>
+            </mat-form-field>
+          </td>
+          <td>
+            <mat-form-field class="inputWrapper" appearance="fill">
+              <mat-label>Month</mat-label>
+                <input formControlName="month" class="cronInput" matInput>
+            </mat-form-field>
+          </td>
+          <td>
+            <mat-form-field class="inputWrapper" appearance="fill">
+              <mat-label>Day(W)</mat-label>
+                <input formControlName="dayW" class="cronInput" matInput>
+            </mat-form-field>
+          </td>
+        </tr>
+        </span>
+      </table>
+      <div class="buttons">
+        <button mat-button matStepperNext type="button" class="ButtonYES">Next</button>
+        <button mat-button matStepperPrevious type="button" class="ButtonCANCEL" routerLink="/ui/dashboard">Cancel
+        </button>
+      </div>
+    </mat-step>
+
+    <!--THIRD STEP-->
+    <mat-step formGroupName="2" [stepControl]="formArray?.get([2])!">
+      <ng-template matStepLabel>
+        <div class="headerTitle">Source / Destination</div>
+      </ng-template>
+      <div class="row">
+        <div formArrayName="sources" class="col">
+          <div *ngFor="let source of Sources.controls; let i = index">
+            <mat-form-field [formGroupName]="i" class="example-full-widthSrc" appearance="fill" [style.width.px]=700>
+              <mat-label>Source</mat-label>
+              <input formControlName="path" matInput placeholder="C:\\.....">
+            </mat-form-field>
+            <mat-icon class="delete-btn" (click)="removeSource(i)">delete_forever</mat-icon>
+          </div>
+          <svg (click)="addSource('')" class="plusIcon" xmlns="http://www.w3.org/2000/svg" width="33" height="33"
+               viewBox="0 0 33 33">
+            <g id="Icon_feather-plus-circle" data-name="Icon feather-plus-circle" transform="translate(-1.5 -1.5)">
+              <path id="Path_18" data-name="Path 18" d="M33,18A15,15,0,1,1,18,3,15,15,0,0,1,33,18Z" fill="none"
+                    stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+              <path id="Path_19" data-name="Path 19" d="M18,12V24" fill="none" stroke="#707070" stroke-linecap="round"
+                    stroke-linejoin="round" stroke-width="3"/>
+              <path id="Path_20" data-name="Path 20" d="M12,18H24" fill="none" stroke="#707070" stroke-linecap="round"
+                    stroke-linejoin="round" stroke-width="3"/>
+            </g>
+          </svg>
+        </div>
+        <div formArrayName="destinations" class="col">
+          <div class="row" *ngFor="let dest of Dest.controls; let i = index">
+            <div class="col-1 selectDest">
+              <mat-form-field [formGroupName]="i" [style.width.px]=100>
+                <mat-select formControlName="type" tabindex="-1" class="SelectDate">
+                  <mat-option value="DRIVE">Drive</mat-option>
+                  <mat-option value="FTP">FTP</mat-option>
+                </mat-select>
+              </mat-form-field>
+            </div>
+            <div class="col">
+              <mat-form-field [formGroupName]="i" class="example-full-widthDst" appearance="fill" [style.width.px]=700>
+                <mat-label>Destination</mat-label>
+                <input formControlName="path" matInput placeholder="X:\\.....">
+              </mat-form-field>
+              <mat-icon class="delete-btn" (click)="removeDest(i)">delete_forever</mat-icon>
+            </div>
+          </div>
+          <svg (click)="addDest({path: '', destType: 'DRIVE'})" class="plusIcon" xmlns="http://www.w3.org/2000/svg"
+               width="33" height="33"
+               viewBox="0 0 33 33">
+            <g id="Icon_feather-plus-circle" data-name="Icon feather-plus-circle" transform="translate(-1.5 -1.5)">
+              <path id="Path_18" data-name="Path 18" d="M33,18A15,15,0,1,1,18,3,15,15,0,0,1,33,18Z" fill="none"
+                    stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+              <path id="Path_19" data-name="Path 19" d="M18,12V24" fill="none" stroke="#707070" stroke-linecap="round"
+                    stroke-linejoin="round" stroke-width="3"/>
+              <path id="Path_20" data-name="Path 20" d="M12,18H24" fill="none" stroke="#707070" stroke-linecap="round"
+                    stroke-linejoin="round" stroke-width="3"/>
+            </g>
+          </svg>
+        </div>
+      </div>
+      <div class="thirdStepButtons">
+        <button mat-button matStepperNext class="ButtonYES" type="submit">Save</button>
+        <button mat-button matStepperPrevious class="ButtonCANCEL" routerLink="/ui/dashboard">Cancel</button>
+      </div>
+    </mat-step>
+  </mat-vertical-stepper>
+</form>
+

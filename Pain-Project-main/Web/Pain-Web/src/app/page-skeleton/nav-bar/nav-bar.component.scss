@@ -1,0 +1,73 @@
+.container-fluid {
+  background-color: var(--Background-primary);
+  padding-bottom: 2em;
+
+}
+
+.brand {
+  margin-top: 3em;
+  margin-left: 1em;
+
+  p {
+    color: var(--Font-blue);
+    font-size: 40px;
+    font-style: italic
+  }
+}
+
+.userIcon {
+  color: var(--Font-blue);
+  font-size: 30px;
+
+  i {
+    margin-right: -1em;
+  }
+}
+
+.name {
+  p {
+    color: var(--Font-blue);
+    font-size: 17px;
+  }
+
+  a, .fa-arrow-right-from-bracket {
+    text-decoration: none;
+    color: var(--Font-color);
+  }
+}
+
+.settings {
+  color: var(--Font-color);
+  margin-right: 1em;
+  font-size: 25px;
+
+  a {
+    cursor: pointer;
+  }
+}
+
+.navbar {
+  background-color: var(--Background-primary);
+
+  a {
+    text-decoration: none;
+    color: var(--Font-color);
+    padding-top: 2em;
+  }
+}
+
+.navbar a:hover, .navbar a.activeLink {
+  color: var(--Font-blue);
+}
+
+.divider {
+  background-color: var(--Font-blue);
+}
+
+.col.user {
+  margin-top: 3em;
+}
+
+.logOut {
+  cursor: pointer;
+}

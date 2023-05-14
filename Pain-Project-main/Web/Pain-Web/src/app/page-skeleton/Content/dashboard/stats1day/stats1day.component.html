@@ -1,0 +1,20 @@
+<mat-grid-list cols="3" rowHeight="120px" gutterSize=70px class="black">
+  <mat-grid-tile colspan=1 rowspan=1 class="gridstyle">
+    <div>
+      <p class="success-norun-error1 green">SUCCESS</p>
+      <p class="counts1 centeredtext">{{success}}</p>
+    </div>
+  </mat-grid-tile>
+  <mat-grid-tile colspan=1 rowspan=1 class="gridstyle">
+    <div>
+      <p class="success-norun-error1 orange">NO RUN</p>
+      <p class="counts1 centeredtext">{{noRun}}</p>
+    </div>
+  </mat-grid-tile>
+  <mat-grid-tile colspan=1 rowspan=1 class="gridstyle">
+    <div>
+      <p class="success-norun-error1 red">ERROR</p>
+      <p class="counts1 centeredtext">{{error}}</p>
+    </div>
+  </mat-grid-tile>
+</mat-grid-list>

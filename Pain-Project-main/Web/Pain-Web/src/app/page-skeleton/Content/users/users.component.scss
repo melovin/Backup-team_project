@@ -1,0 +1,104 @@
+body {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  background-color: var(--Background-primary);
+}
+
+.Search {
+  position: absolute;
+  right: 20px;
+  top: 150px;
+
+  .fa-magnifying-glass {
+    margin-left: -10px;
+    margin-right: 2vw;
+    font-size: 20px;
+    color: var(--Font-color);
+  }
+}
+
+.InputSearch {
+  font-size: 20px;
+  color: var(--Font-color);
+  border: var(--Shadow) 1px solid;
+  box-shadow: var(--Shadow) 5px 5px 10px;
+  margin-right: 1em;
+  border-radius: 7px;
+  background-color: var(--Background-secondary);
+
+  &:focus {
+    outline: none;
+  }
+}
+
+
+.UserNameHeader {
+  color: var(--Font-color);
+}
+
+.loginName {
+  color: var(--Font-blue);
+}
+
+.font {
+  font-size: 20px;
+}
+
+.buttonREM {
+  background-color: var(--Cancel);
+  color: white;
+  border-radius: 10px;
+
+  &:hover, &:focus {
+    background-color: var(--CancelFocus);
+  }
+}
+
+.configPanel {
+  margin-bottom: 2%;
+  background-color: var(--Background-secondary);
+}
+
+.configHeader {
+  padding: 30px;
+  font-size: 25px
+}
+
+.container.expand {
+  border-top: var(--Font-color) 1px solid;
+  margin-top: 15px;
+  padding-top: 20px;
+  font-size: 20px;
+  color: var(--Font-color);
+}
+
+.configViewport {
+  height: 300px;
+  width: 100%;
+}
+
+.configLine {
+  height: 50px;
+}
+
+.icon {
+  color: var(--AddUserIcon);
+  font-size: 50px;
+  margin-top: 1rem;
+}
+
+a :hover {
+  cursor: pointer;
+}
+
+.card {
+  bottom: -1em;
+  right: -1em;
+  position: fixed;
+  border-radius: 10px;
+  width: 15rem;
+  height: 8rem;
+  text-align: center;
+  background-color: var(--AddUser);
+  backdrop-filter: blur(5px);
+}

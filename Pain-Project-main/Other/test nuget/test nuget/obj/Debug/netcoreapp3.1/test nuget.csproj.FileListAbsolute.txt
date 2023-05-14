@@ -1,0 +1,62 @@
+C:\Users\frantisek\source\repos\test nuget\test nuget\bin\Debug\netcoreapp3.1\test nuget.exe
+C:\Users\frantisek\source\repos\test nuget\test nuget\bin\Debug\netcoreapp3.1\test nuget.deps.json
+C:\Users\frantisek\source\repos\test nuget\test nuget\bin\Debug\netcoreapp3.1\test nuget.runtimeconfig.json
+C:\Users\frantisek\source\repos\test nuget\test nuget\bin\Debug\netcoreapp3.1\test nuget.runtimeconfig.dev.json
+C:\Users\frantisek\source\repos\test nuget\test nuget\bin\Debug\netcoreapp3.1\test nuget.dll
+C:\Users\frantisek\source\repos\test nuget\test nuget\bin\Debug\netcoreapp3.1\test nuget.pdb
+C:\Users\frantisek\source\repos\test nuget\test nuget\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\frantisek\source\repos\test nuget\test nuget\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\frantisek\source\repos\test nuget\test nuget\bin\Debug\netcoreapp3.1\NCrontab.dll
+C:\Users\frantisek\source\repos\test nuget\test nuget\bin\Debug\netcoreapp3.1\Quartz.dll
+C:\Users\frantisek\source\repos\test nuget\test nuget\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\frantisek\source\repos\test nuget\test nuget\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\frantisek\source\repos\test nuget\test nuget\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\frantisek\source\repos\test nuget\test nuget\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\frantisek\source\repos\test nuget\test nuget\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\frantisek\source\repos\test nuget\test nuget\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\frantisek\source\repos\test nuget\test nuget\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\frantisek\source\repos\test nuget\test nuget\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\frantisek\source\repos\test nuget\test nuget\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\frantisek\source\repos\test nuget\test nuget\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\frantisek\source\repos\test nuget\test nuget\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\frantisek\source\repos\test nuget\test nuget\obj\Debug\netcoreapp3.1\test nuget.csproj.AssemblyReference.cache
+C:\Users\frantisek\source\repos\test nuget\test nuget\obj\Debug\netcoreapp3.1\test nuget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frantisek\source\repos\test nuget\test nuget\obj\Debug\netcoreapp3.1\test nuget.AssemblyInfoInputs.cache
+C:\Users\frantisek\source\repos\test nuget\test nuget\obj\Debug\netcoreapp3.1\test nuget.AssemblyInfo.cs
+C:\Users\frantisek\source\repos\test nuget\test nuget\obj\Debug\netcoreapp3.1\test nuget.csproj.CoreCompileInputs.cache
+C:\Users\frantisek\source\repos\test nuget\test nuget\obj\Debug\netcoreapp3.1\test nuget.csproj.CopyComplete
+C:\Users\frantisek\source\repos\test nuget\test nuget\obj\Debug\netcoreapp3.1\test nuget.dll
+C:\Users\frantisek\source\repos\test nuget\test nuget\obj\Debug\netcoreapp3.1\test nuget.pdb
+C:\Users\frantisek\source\repos\test nuget\test nuget\obj\Debug\netcoreapp3.1\test nuget.genruntimeconfig.cache
+C:\Users\frantisek\source\repos\test nuget\test nuget\bin\Debug\netcoreapp3.1\Cronos.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\bin\Debug\netcoreapp3.1\test nuget.exe
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\bin\Debug\netcoreapp3.1\test nuget.deps.json
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\bin\Debug\netcoreapp3.1\test nuget.runtimeconfig.json
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\bin\Debug\netcoreapp3.1\test nuget.runtimeconfig.dev.json
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\bin\Debug\netcoreapp3.1\test nuget.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\bin\Debug\netcoreapp3.1\test nuget.pdb
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\bin\Debug\netcoreapp3.1\Cronos.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\bin\Debug\netcoreapp3.1\NCrontab.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\bin\Debug\netcoreapp3.1\Quartz.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\obj\Debug\netcoreapp3.1\test nuget.csproj.AssemblyReference.cache
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\obj\Debug\netcoreapp3.1\test nuget.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\obj\Debug\netcoreapp3.1\test nuget.AssemblyInfoInputs.cache
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\obj\Debug\netcoreapp3.1\test nuget.AssemblyInfo.cs
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\obj\Debug\netcoreapp3.1\test nuget.csproj.CoreCompileInputs.cache
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\obj\Debug\netcoreapp3.1\test nuget.csproj.CopyComplete
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\obj\Debug\netcoreapp3.1\test nuget.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\obj\Debug\netcoreapp3.1\test nuget.pdb
+D:\DATA\programy\Git Projekty\Pain-Project\Other\test nuget\test nuget\obj\Debug\netcoreapp3.1\test nuget.genruntimeconfig.cache

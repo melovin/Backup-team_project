@@ -1,0 +1,27 @@
+<h1 mat-dialog-title>
+  <div class="row DialogHeader">
+    <h1 class="col">Add clients</h1>
+    <div class="col text-end Search">
+      <input *ngIf="searchActive" [(ngModel)]="searchedClient" type="text" name="search" class="InputSearch" matInput>
+      <a (click)="ActiveChange()" [ngClass]="cssClassIcon"><i class="fa-solid fa-magnifying-glass"></i></a>
+    </div>
+  </div>
+</h1>
+<div mat-dialog-content>
+  <cdk-virtual-scroll-viewport itemSize="50" class="clientsViewport">
+    <div *cdkVirtualFor="let client of clients | ConfigsClientSearch: searchedClient" class="clientLine">
+      <div class="row">
+        <div class="col-1">
+          <mat-checkbox #c [ngModel]="client.active" (change)="ConfigCheck(c.checked, client)"></mat-checkbox>
+        </div>
+        <div class="col-5">
+          <p>{{client.name}}</p>
+        </div>
+      </div>
+    </div>
+  </cdk-virtual-scroll-viewport>
+</div>
+<mat-dialog-actions class="Button">
+  <button tabindex="-1" class="ButtonYES" mat-button [mat-dialog-close]="clients">SAVE</button>
+  <button class="ButtonCANCEL" mat-button [mat-dialog-close]="false">CANCEL</button>
+</mat-dialog-actions>

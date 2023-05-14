@@ -1,0 +1,73 @@
+body {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  background-color: var(--Background-primary);
+}
+
+.Filter {
+  position: absolute;
+  right: 20px;
+  top: 150px;
+
+  select {
+    background-color: var(--Background-secondary);
+    color: var(--Font-color);
+    width: 120px;
+  }
+
+  .fa-magnifying-glass, .fa-filter {
+    margin-left: -10px;
+    margin-right: 2vw;
+    font-size: 20px;
+    color: var(--Font-color);
+  }
+}
+
+.short {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  width: 6em;
+}
+
+.InputSearch {
+  background-color: var(--Background-secondary);
+  color: var(--Font-color);
+  font-size: 20px;
+  border: var(--Shadow) 1px solid;
+  box-shadow: var(--Shadow) 5px 5px 10px;
+  margin-right: 1em;
+  border-radius: 7px;
+
+  &:focus {
+    outline: none;
+  }
+}
+
+.LogNameHeader {
+  color: var(--Font-color);
+}
+
+.ClientName {
+  color: var(--Font-blue);
+}
+
+.configPanel {
+  margin-bottom: 2%;
+  background-color: var(--Background-secondary);
+}
+
+.configHeader {
+  padding: 30px;
+  font-size: 25px
+}
+
+.container.expand {
+  border-top: var(--Font-color) 1px solid;
+  margin-top: 15px;
+  padding-top: 20px;
+}
+
+.message {
+  color: var(--Font-color);
+}

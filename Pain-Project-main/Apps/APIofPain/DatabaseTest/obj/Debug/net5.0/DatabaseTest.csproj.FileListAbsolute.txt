@@ -1,0 +1,438 @@
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\appsettings.json
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\DatabaseTest.exe
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\DatabaseTest.deps.json
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\DatabaseTest.runtimeconfig.json
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\DatabaseTest.runtimeconfig.dev.json
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\DatabaseTest.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\ref\DatabaseTest.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\DatabaseTest.pdb
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.AssemblyReference.cache
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\obj\Debug\net5.0\DatabaseTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\obj\Debug\net5.0\DatabaseTest.AssemblyInfoInputs.cache
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\obj\Debug\net5.0\DatabaseTest.AssemblyInfo.cs
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.CoreCompileInputs.cache
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\obj\Debug\net5.0\DatabaseTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\obj\Debug\net5.0\DatabaseTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\obj\Debug\net5.0\scopedcss\bundle\DatabaseTest.styles.css
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\obj\Debug\net5.0\staticwebassets\DatabaseTest.StaticWebAssets.Manifest.cache
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\obj\Debug\net5.0\DatabaseTest.RazorTargetAssemblyInfo.cache
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.CopyComplete
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\obj\Debug\net5.0\DatabaseTest.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\obj\Debug\net5.0\ref\DatabaseTest.dll
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\obj\Debug\net5.0\DatabaseTest.pdb
+C:\Users\troli\source\repos\DatabaseTest\DatabaseTest\obj\Debug\net5.0\DatabaseTest.genruntimeconfig.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\appsettings.json
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\DatabaseTest.exe
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\DatabaseTest.deps.json
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\DatabaseTest.runtimeconfig.json
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\DatabaseTest.runtimeconfig.dev.json
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\DatabaseTest.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\ref\DatabaseTest.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\DatabaseTest.pdb
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.AssemblyReference.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\DatabaseTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\DatabaseTest.AssemblyInfoInputs.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\DatabaseTest.AssemblyInfo.cs
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.CoreCompileInputs.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\DatabaseTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\DatabaseTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\scopedcss\bundle\DatabaseTest.styles.css
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\staticwebassets\DatabaseTest.StaticWebAssets.Manifest.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\DatabaseTest.RazorTargetAssemblyInfo.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.CopyComplete
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\DatabaseTest.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\ref\DatabaseTest.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\DatabaseTest.pdb
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Other\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\DatabaseTest.genruntimeconfig.cache
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\DatabaseTest.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\ref\DatabaseTest.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\DatabaseTest.pdb
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.AssemblyReference.cache
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\DatabaseTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\DatabaseTest.AssemblyInfoInputs.cache
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\DatabaseTest.AssemblyInfo.cs
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.CoreCompileInputs.cache
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\DatabaseTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\DatabaseTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\appsettings.json
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\DatabaseTest.exe
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\DatabaseTest.deps.json
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\DatabaseTest.runtimeconfig.json
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\DatabaseTest.runtimeconfig.dev.json
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\DatabaseTest.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\ref\DatabaseTest.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\DatabaseTest.pdb
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\staticwebassets\DatabaseTest.StaticWebAssets.Manifest.cache
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\staticwebassets\DatabaseTest.StaticWebAssets.xml
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\scopedcss\bundle\DatabaseTest.styles.css
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\DatabaseTest.RazorTargetAssemblyInfo.cache
+C:\Users\rusla\Desktop\DatabaseTestAPI\DatabaseTest\obj\Debug\net5.0\DatabaseTest.genruntimeconfig.cache
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\appsettings.json
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.exe
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.deps.json
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.runtimeconfig.json
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.runtimeconfig.dev.json
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\ref\DatabaseTest.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.pdb
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.AssemblyReference.cache
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.AssemblyInfoInputs.cache
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.AssemblyInfo.cs
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.CoreCompileInputs.cache
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\obj\Debug\net5.0\staticwebassets\DatabaseTest.StaticWebAssets.Manifest.cache
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\obj\Debug\net5.0\staticwebassets\DatabaseTest.StaticWebAssets.xml
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\obj\Debug\net5.0\scopedcss\bundle\DatabaseTest.styles.css
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.RazorTargetAssemblyInfo.cache
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\obj\Debug\net5.0\ref\DatabaseTest.dll
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.pdb
+C:\Users\rusla\Desktop\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.genruntimeconfig.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\appsettings.json
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.StaticWebAssets.xml
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.exe
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.deps.json
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.runtimeconfig.json
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.runtimeconfig.dev.json
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\ref\DatabaseTest.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.pdb
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.AssemblyReference.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.AssemblyInfoInputs.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.AssemblyInfo.cs
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.CoreCompileInputs.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\scopedcss\bundle\DatabaseTest.styles.css
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\staticwebassets\DatabaseTest.StaticWebAssets.Manifest.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.RazorTargetAssemblyInfo.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.CopyComplete
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\ref\DatabaseTest.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.pdb
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.genruntimeconfig.cache
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\appsettings.Development.json
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\appsettings.json
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.exe
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.deps.json
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.runtimeconfig.json
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.runtimeconfig.dev.json
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\ref\DatabaseTest.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.pdb
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Google.Protobuf.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\MySql.Data.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\ZstdNet.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.AssemblyReference.cache
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.AssemblyInfoInputs.cache
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.AssemblyInfo.cs
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.CoreCompileInputs.cache
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.MvcApplicationPartsAssemblyInfo.cs
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.MvcApplicationPartsAssemblyInfo.cache
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\staticwebassets\DatabaseTest.StaticWebAssets.Manifest.cache
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\staticwebassets\DatabaseTest.StaticWebAssets.xml
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\scopedcss\bundle\DatabaseTest.styles.css
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.RazorTargetAssemblyInfo.cache
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.CopyComplete
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\ref\DatabaseTest.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.pdb
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.genruntimeconfig.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\BCrypt.Net-Core.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\JWT.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\NCrontab.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Quartz.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\BCrypt.Net-Core.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\JWT.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\NCrontab.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Quartz.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.AssemblyReference.cache
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.GeneratedMSBuildEditorConfig.editorconfig
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.AssemblyInfoInputs.cache
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.AssemblyInfo.cs
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.CoreCompileInputs.cache
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.MvcApplicationPartsAssemblyInfo.cs
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.MvcApplicationPartsAssemblyInfo.cache
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\ref\DatabaseTest.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.pdb
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\appsettings.Development.json
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\appsettings.json
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.exe
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.deps.json
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.runtimeconfig.json
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.runtimeconfig.dev.json
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\ref\DatabaseTest.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.pdb
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\BCrypt.Net-Core.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Google.Protobuf.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\JWT.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\MySql.Data.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\ZstdNet.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\NCrontab.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Quartz.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\staticwebassets\DatabaseTest.StaticWebAssets.Manifest.cache
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\staticwebassets\DatabaseTest.StaticWebAssets.xml
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\scopedcss\bundle\DatabaseTest.styles.css
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.RazorTargetAssemblyInfo.cache
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.CopyComplete
+H:\DATA\projekty\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.genruntimeconfig.cache
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\appsettings.json
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.exe
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.deps.json
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.runtimeconfig.json
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.runtimeconfig.dev.json
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\ref\DatabaseTest.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.pdb
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\BCrypt.Net-Core.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\JWT.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\NCrontab.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Quartz.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.AssemblyReference.cache
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.AssemblyInfoInputs.cache
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.AssemblyInfo.cs
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.CoreCompileInputs.cache
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\staticwebassets\DatabaseTest.StaticWebAssets.Manifest.cache
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\staticwebassets\DatabaseTest.StaticWebAssets.xml
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\scopedcss\bundle\DatabaseTest.styles.css
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.RazorTargetAssemblyInfo.cache
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.CopyComplete
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\ref\DatabaseTest.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.pdb
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.genruntimeconfig.cache
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Data\emailSettings.json
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\appsettings.json
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Data\emailSettings.json
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.exe
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.deps.json
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.runtimeconfig.json
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.runtimeconfig.dev.json
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\ref\DatabaseTest.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\DatabaseTest.pdb
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\BCrypt.Net-Core.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\JWT.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\NCrontab.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Quartz.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.AssemblyReference.cache
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.AssemblyInfoInputs.cache
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.AssemblyInfo.cs
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.CoreCompileInputs.cache
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\staticwebassets\DatabaseTest.StaticWebAssets.Manifest.cache
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\staticwebassets\DatabaseTest.StaticWebAssets.xml
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\scopedcss\bundle\DatabaseTest.styles.css
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.RazorTargetAssemblyInfo.cache
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.csproj.CopyComplete
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\ref\DatabaseTest.dll
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.pdb
+C:\Users\stankomichal\Documents\GitHub\Pain-Project\Apps\APIofPain\DatabaseTest\obj\Debug\net5.0\DatabaseTest.genruntimeconfig.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\APIofPain\DatabaseTest\bin\Debug\net5.0\Data\emailSettings.json

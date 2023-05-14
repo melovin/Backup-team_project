@@ -1,0 +1,54 @@
+<body>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-9">
+      <div class="p-4">
+        <app-stats1day></app-stats1day>
+      </div>
+      <div class="p-4">
+        <mat-grid-list cols="4" rowHeight="120px" gutterSize=50px>
+          <mat-grid-tile colspan=1 rowspan=1 class="gridstyle">
+            <div>
+              <app-backupsize></app-backupsize>
+            </div>
+          </mat-grid-tile>
+          <mat-grid-tile colspan=3 rowspan=4 class="gridstyle">
+            <cdk-virtual-scroll-viewport itemSize="100%" class="graf">
+              <div class="container">
+                <div class="row">
+                  <div class="col-auto">
+                    <app-graf></app-graf>
+                  </div>
+                  <div class="col">
+                    <div class="container">
+                      <div class="row comp-awaits">
+                        <app-completed></app-completed>
+                      </div>
+                      <div class="row comp-awaits">
+                        <app-awaits></app-awaits>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </cdk-virtual-scroll-viewport>
+          </mat-grid-tile>
+          <mat-grid-tile colspan=1 rowspan=3 class="gridstyle black">
+            <app-stats7day></app-stats7day>
+          </mat-grid-tile>
+        </mat-grid-list>
+      </div>
+    </div>
+    <div class="p-4 col">
+      <mat-grid-list mat-grid-list cols="1" rowHeight="160px">
+        <mat-grid-tile colspan=1 rowspan=3 class="gridstyle">
+          <app-problems class="app-problems"></app-problems>
+        </mat-grid-tile>
+        <mat-grid-tile colspan=1 rowspan=2 class="addconfiggridstyle">
+          <app-addconfigbutton></app-addconfigbutton>
+        </mat-grid-tile>
+      </mat-grid-list>
+    </div>
+  </div>
+</div>
+</body>

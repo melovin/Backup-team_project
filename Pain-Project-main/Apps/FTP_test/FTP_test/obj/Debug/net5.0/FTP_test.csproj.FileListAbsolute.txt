@@ -1,0 +1,16 @@
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\FTP_test\FTP_test\bin\Debug\net5.0\FTP_test.exe
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\FTP_test\FTP_test\bin\Debug\net5.0\FTP_test.deps.json
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\FTP_test\FTP_test\bin\Debug\net5.0\FTP_test.runtimeconfig.json
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\FTP_test\FTP_test\bin\Debug\net5.0\FTP_test.runtimeconfig.dev.json
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\FTP_test\FTP_test\bin\Debug\net5.0\FTP_test.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\FTP_test\FTP_test\bin\Debug\net5.0\ref\FTP_test.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\FTP_test\FTP_test\bin\Debug\net5.0\FTP_test.pdb
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\FTP_test\FTP_test\obj\Debug\net5.0\FTP_test.csproj.AssemblyReference.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\FTP_test\FTP_test\obj\Debug\net5.0\FTP_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\FTP_test\FTP_test\obj\Debug\net5.0\FTP_test.AssemblyInfoInputs.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\FTP_test\FTP_test\obj\Debug\net5.0\FTP_test.AssemblyInfo.cs
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\FTP_test\FTP_test\obj\Debug\net5.0\FTP_test.csproj.CoreCompileInputs.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\FTP_test\FTP_test\obj\Debug\net5.0\FTP_test.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\FTP_test\FTP_test\obj\Debug\net5.0\ref\FTP_test.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\FTP_test\FTP_test\obj\Debug\net5.0\FTP_test.pdb
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\FTP_test\FTP_test\obj\Debug\net5.0\FTP_test.genruntimeconfig.cache

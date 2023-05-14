@@ -1,0 +1,169 @@
+.gridstyle {
+  background: var(--Background-secondary);
+  border-style: solid;
+  border-width: 1px;
+  border-color: var(--Shadow);
+  box-shadow: 7px 7px 9px 7px var(--Shadow);
+}
+
+.addconfiggridstyle {
+  background-color: transparent;
+}
+
+body, html {
+  background-color: var(--Background-primary);
+}
+
+body {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.labelborder {
+  border-style: solid;
+  border-width: 1px;
+  border-color: var(--Shadow);
+  margin: 10%;
+}
+
+.success-norun-error1 {
+  text-align: center;
+  font-size: 30px;
+}
+
+.success-norun-error7 {
+  text-align: center;
+  font-size: 25px;
+}
+
+.counts1 {
+  text-align: center;
+  font-size: 20px;
+}
+
+.counts7 {
+  text-align: center;
+  font-size: 20px;
+}
+
+.sizelabel {
+  text-align: center;
+  font-size: 30px;
+}
+
+.countssize {
+  text-align: center;
+  font-size: 20px;
+}
+
+.problemslabel {
+  text-align: center;
+  font-size: 30px;
+}
+
+.red {
+  color: #e52f2f;
+}
+
+.orange {
+  color: #ff6c0a;
+}
+
+.green {
+  color: #1c9c24;
+}
+
+.blue {
+  color: var(--Font-blue);
+}
+
+.scrollproblems {
+  height: 400px;
+  width: 100%;
+  cursor: pointer;
+
+  .scrollitem:hover {
+    filter: brightness(85%);
+  }
+}
+
+.scrollcompleteawaits {
+  height: 220px;
+  width: 130%;
+  right: 40px;
+}
+
+.addconfig {
+  text-align: center;
+  font-size: 40px;
+  color: var(--Font-blue);
+  margin: 5%;
+}
+
+.black {
+  color: var(--Font-color);
+}
+
+.spinner {
+  margin-top: 40%;
+}
+
+.scrollitem {
+  padding-top: 4%;
+  margin-left: 1%;
+}
+
+.grayitem {
+  background: var(--Stripe);
+}
+
+.itemheight {
+  height: 50px;
+}
+
+.problemswidth {
+  width: 320px;
+}
+
+.graf {
+  height: 100%;
+  width: 100%;
+}
+
+.centeredtext {
+  text-align: center;
+}
+
+.stats7dayshead {
+  font-size: 30px;
+}
+
+.percent {
+  margin-top: 10%;
+  font-size: 55px;
+  text-align: center;
+}
+
+.comp-awaits-width {
+  width: 100%;
+  margin-left: 3%;
+}
+
+.comp-awaits {
+  margin-top: 5%;
+}
+
+.app-problems {
+  margin-top: 10%;
+}
+
+.addButton {
+  cursor: pointer;
+}
+
+.short {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  width: 6em;
+}

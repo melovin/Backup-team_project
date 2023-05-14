@@ -1,0 +1,142 @@
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.exe
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.deps.json
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.runtimeconfig.json
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.runtimeconfig.dev.json
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.dll
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\ref\DaemonOfPain.dll
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.pdb
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.csproj.AssemblyReference.cache
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.GeneratedMSBuildEditorConfig.editorconfig
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.AssemblyInfoInputs.cache
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.AssemblyInfo.cs
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.csproj.CoreCompileInputs.cache
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.dll
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\ref\DaemonOfPain.dll
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.pdb
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.genruntimeconfig.cache
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.csproj.CopyComplete
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.exe
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.deps.json
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.runtimeconfig.json
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.runtimeconfig.dev.json
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\ref\DaemonOfPain.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.pdb
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.csproj.AssemblyReference.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.AssemblyInfoInputs.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.AssemblyInfo.cs
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.csproj.CoreCompileInputs.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.csproj.CopyComplete
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\ref\DaemonOfPain.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.pdb
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.genruntimeconfig.cache
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.exe
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.deps.json
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.runtimeconfig.json
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.runtimeconfig.dev.json
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\ref\DaemonOfPain.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.pdb
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.csproj.AssemblyReference.cache
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.AssemblyInfoInputs.cache
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.AssemblyInfo.cs
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.csproj.CoreCompileInputs.cache
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.csproj.CopyComplete
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\ref\DaemonOfPain.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.pdb
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.genruntimeconfig.cache
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\Quartz.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\Quartz.dll
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Drawing.Common.dll
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Security.Permissions.dll
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Windows.Extensions.dll
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\NCrontab.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\NCrontab.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\NCrontab.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\Quartz.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+H:\DATA\projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.exe
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.deps.json
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.runtimeconfig.json
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.runtimeconfig.dev.json
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\ref\DaemonOfPain.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\DaemonOfPain.pdb
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\NCrontab.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\Quartz.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.csproj.AssemblyReference.cache
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.AssemblyInfoInputs.cache
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.AssemblyInfo.cs
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.csproj.CoreCompileInputs.cache
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.csproj.CopyComplete
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\ref\DaemonOfPain.dll
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.pdb
+C:\Users\hasekfrantisek\Documents\GitHub\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\obj\Debug\net5.0\DaemonOfPain.genruntimeconfig.cache
+D:\DATA\programy\Git Projekty\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\FluentFTP.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\FluentFTP.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\Apps\DaemonOfPain\DaemonOfPain\bin\Debug\net5.0\BouncyCastle.Crypto.dll

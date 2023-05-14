@@ -1,0 +1,131 @@
+body {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  background-color: var(--Background-primary);
+}
+
+.ConfigNameHeader {
+  color: var(--Font-color);
+}
+
+.Search {
+  position: absolute;
+  right: 20px;
+  top: 150px;
+
+  .fa-magnifying-glass {
+    margin-left: -10px;
+    margin-right: 2vw;
+    font-size: 20px;
+    color: var(--Font-color);
+  }
+}
+
+.buttonADD {
+  background-color: var(--Submit);
+  color: white;
+  border-radius: 10px;
+
+  &:focus, &:hover {
+    background-color: var(--SubmitFocus)
+  }
+}
+
+.buttonEDIT {
+  margin-left: 30px;
+  margin-right: 30px;
+  background-color: var(--Submit);
+  color: white;
+  border-radius: 10px;
+
+  &:focus, &:hover {
+    background-color: var(--SubmitFocus)
+  }
+}
+
+.buttonREM {
+  background-color: var(--Cancel);
+  color: white;
+  border-radius: 10px;
+
+  &:focus, &:hover {
+    background-color: var(--CancelFocus)
+  }
+}
+
+.configPanel {
+  margin-bottom: 2%;
+  background-color: var(--Background-secondary);
+  color: var(--Font-color);
+}
+
+.configHeader {
+  padding: 30px;
+  font-size: 25px;
+
+  .name {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 10vw;
+  }
+}
+
+.container.expand {
+  border-top: var(--Font-color) 1px solid;
+  margin-top: 15px;
+  padding-top: 20px;
+}
+
+.sourceDest {
+  border-left: solid var(--Font-color) 1px;
+  border-right: solid var(--Font-color) 1px;
+}
+
+.sourcesViewport {
+  height: 100px;
+  width: 150px;
+}
+
+.sourcesList {
+  height: 25px;
+}
+
+.pcViewport {
+  height: 150px;
+  width: 285px;
+}
+
+.pcList {
+  height: 50px;
+
+  .buttonREM {
+    margin-right: 5px;
+    margin-left: 0;
+  }
+
+  .colName {
+    padding-right: 0;
+  }
+
+  .name {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 6em;
+  }
+}
+
+.InputSearch {
+  font-size: 20px;
+  color: var(--Font-color);
+  border: var(--Shadow) 1px solid;
+  box-shadow: var(--Shadow) 5px 5px 10px;
+  margin-right: 1em;
+  border-radius: 7px;
+  background-color: var(--Background-secondary);
+
+  &:focus {
+    outline: none;
+  }
+}

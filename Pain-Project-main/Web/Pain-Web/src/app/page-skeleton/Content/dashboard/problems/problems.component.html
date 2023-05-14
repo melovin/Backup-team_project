@@ -1,0 +1,24 @@
+<div class="container">
+  <div class="row">
+    <p class="problemslabel red">PROBLEMS</p>
+  </div>
+  <div class="row problemswidth">
+    <div class="container black">
+      <cdk-virtual-scroll-viewport itemSize="72" class="scrollproblems">
+        <div class="row" *ngFor="let odd = odd;let problem of problems" [class.grayitem]="odd">
+          <div (click)="scroll(problem.taskId)" class="row itemheight scrollitem">
+            <div class="col-3">
+              <p class="short">{{problem.clientName}}</p>
+            </div>
+            <div class="col-3">
+              <p class="short"> {{problem.configName}}</p>
+            </div>
+            <div class="col">
+              <p class="centeredtext">{{format_time(problem.date)}}</p>
+            </div>
+          </div>
+        </div>
+      </cdk-virtual-scroll-viewport>
+    </div>
+  </div>
+</div>

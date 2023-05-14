@@ -1,0 +1,65 @@
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\EmailSender.exe
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\EmailSender.deps.json
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\EmailSender.runtimeconfig.json
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\EmailSender.runtimeconfig.dev.json
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\EmailSender.dll
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\EmailSender.pdb
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\obj\Debug\netcoreapp3.1\EmailSender.csproj.AssemblyReference.cache
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\obj\Debug\netcoreapp3.1\EmailSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\obj\Debug\netcoreapp3.1\EmailSender.AssemblyInfoInputs.cache
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\obj\Debug\netcoreapp3.1\EmailSender.AssemblyInfo.cs
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\obj\Debug\netcoreapp3.1\EmailSender.csproj.CoreCompileInputs.cache
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\obj\Debug\netcoreapp3.1\EmailSender.dll
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\obj\Debug\netcoreapp3.1\EmailSender.pdb
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\obj\Debug\netcoreapp3.1\EmailSender.genruntimeconfig.cache
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\FluentEmail.Core.dll
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\FluentEmail.Smtp.dll
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\Quartz.dll
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rusla\Documents\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\EmailSender.exe
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\EmailSender.deps.json
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\EmailSender.runtimeconfig.json
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\EmailSender.runtimeconfig.dev.json
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\EmailSender.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\EmailSender.pdb
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\FluentEmail.Core.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\FluentEmail.Smtp.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\Quartz.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\obj\Debug\netcoreapp3.1\EmailSender.csproj.AssemblyReference.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\obj\Debug\netcoreapp3.1\EmailSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\obj\Debug\netcoreapp3.1\EmailSender.AssemblyInfoInputs.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\obj\Debug\netcoreapp3.1\EmailSender.AssemblyInfo.cs
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\obj\Debug\netcoreapp3.1\EmailSender.csproj.CoreCompileInputs.cache
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\obj\Debug\netcoreapp3.1\EmailSender.csproj.CopyComplete
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\obj\Debug\netcoreapp3.1\EmailSender.dll
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\obj\Debug\netcoreapp3.1\EmailSender.pdb
+C:\Users\troli\Desktop\Pain Project\Pain-Project\EmailSender\EmailSender\obj\Debug\netcoreapp3.1\EmailSender.genruntimeconfig.cache

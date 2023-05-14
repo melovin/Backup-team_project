@@ -1,0 +1,90 @@
+.DialogHeader {
+  h1 {
+    color: var(--Font-blue);
+  }
+
+  .Search {
+    height: 2em;
+
+    a {
+      cursor: pointer;
+    }
+
+    .NotActiveSearch {
+      color: var(--Font-color);
+    }
+
+    .ActiveSearch {
+      color: var(--AddUserIcon);
+    }
+  }
+}
+
+.clientsViewport {
+  height: 300px;
+  width: 100%;
+  font-size: 20px;
+  color: var(--Font-color);
+}
+
+.clientLine {
+  height: 50px;
+}
+
+::ng-deep .mat-checkbox .mat-checkbox-background {
+  border: var(--AddUserIcon) solid 1px;
+}
+
+::ng-deep .mat-checkbox-checked.mat-accent .mat-checkbox-ripple .mat-ripple-element {
+  opacity: 0.03 !important;
+  background-color: var(--Font-blue) !important;
+}
+
+::ng-deep .mat-ripple {
+  display: none;
+}
+
+::ng-deep .mat-checkbox-checked.mat-accent .mat-checkbox-background, .mat-checkbox-indeterminate.mat-accent .mat-checkbox-background {
+  background-color: var(--Font-blue);
+}
+
+.Button {
+  color: white;
+  border-radius: 10px;
+  font-size: 30px;
+}
+
+.ButtonCANCEL {
+  border-radius: 10px;
+  width: 100px;
+  background-color: var(--Cancel);
+
+  &:hover, &:focus {
+    background-color: var(--CancelFocus);
+  }
+}
+
+.ButtonYES {
+  border-radius: 10px;
+  width: 100px;
+  margin-right: 5em;
+  background-color: var(--Submit);
+
+  &:hover, &:focus {
+    background-color: var(--SubmitFocus);
+  }
+}
+
+.InputSearch {
+  font-size: 20px;
+  color: var(--Font-color);
+  background-color: var(--Background-secondary);
+  border: var(--Shadow) 1px solid;
+  box-shadow: var(--Shadow) 5px 5px 10px;
+  margin-right: 1em;
+  border-radius: 7px;
+
+  &:focus {
+    outline: none;
+  }
+}

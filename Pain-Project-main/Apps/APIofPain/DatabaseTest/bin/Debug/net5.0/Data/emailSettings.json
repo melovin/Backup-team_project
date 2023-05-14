@@ -1,0 +1,8 @@
+{
+  "Port": 587,
+  "SMTP": "smtp.gmail.com",
+  "Freq": 1,
+  "Sender": "test.lepain@gmail.com",
+  "Password": "Ab.123456",
+  "SSL": true
+}

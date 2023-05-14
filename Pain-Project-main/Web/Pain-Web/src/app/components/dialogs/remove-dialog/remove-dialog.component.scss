@@ -1,0 +1,87 @@
+body, html {
+  background-color: var(--Background-primary);
+}
+
+.header {
+  color: var(--Cancel);
+  margin-top: 2em;
+}
+
+.icon {
+  float: left;
+  margin-right: 10px;
+  font-size: 30px;
+}
+
+.header h1 {
+  font-size: 35px;
+}
+
+.content p {
+  margin-top: 5em;
+  margin-bottom: 5em;
+  text-align: center;
+  font-size: 25px;
+  color: var(--Font-color);
+}
+
+.Button {
+  color: white;
+  border-radius: 10px;
+  font-size: 30px;
+  margin-bottom: 2em;
+}
+
+.ButtonCANCEL {
+  border-radius: 10px;
+  width: 100px;
+  background-color: var(--Cancel);
+
+  &:focus, &:hover {
+    background-color: var(--CancelFocus);
+  }
+}
+
+.ButtonYES {
+  border-radius: 10px;
+  width: 100px;
+  margin-right: 5em;
+  background-color: var(--Submit);
+
+  &:focus, &:hover {
+    background-color: var(--SubmitFocus);
+  }
+}
+
+
+.configRemove {
+  .header {
+    margin-left: 2em;
+  }
+}
+
+.clientConfigRemove {
+  .header {
+    i {
+      float: none;
+      display: block;
+    }
+
+    h1 {
+      text-align: center;
+    }
+  }
+}
+
+.clientRemove {
+  .header {
+    margin-left: 5em;
+  }
+}
+
+.userRemove {
+  .header {
+    margin-left: 5em;
+  }
+}
+

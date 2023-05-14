@@ -1,0 +1,51 @@
+<body>
+<div class="col text-end Search">
+  <input [(ngModel)]="searchedUser" type="text" name="search" class="InputSearch">
+  <i class="fa-solid fa-magnifying-glass"></i>
+</div>
+<div class="container"
+     infinite-scroll
+     (scrolled)="onScrollDown($event)">
+  <div *ngFor="let user of users | UsersUserSearch: searchedUser | slice:0:sum">
+    <mat-expansion-panel hideToggle class="configPanel">
+      <mat-expansion-panel-header class="configHeader">
+        <mat-panel-title class="text-uppercase UserNameHeader">
+          <div class="col font">
+            {{user.name}}
+          </div>
+          <div class="col font">
+            {{user.surname}}
+          </div>
+          <div class="col font">
+            {{user.createDate}}
+          </div>
+          <div class="buttons">
+            <a (click)="onClick($event); removeDialog(user.id)" class="buttonREM" mat-raised-button>REMOVE</a>
+          </div>
+        </mat-panel-title>
+      </mat-expansion-panel-header>
+      <div class="container expand">
+        <cdk-virtual-scroll-viewport *ngIf="user.logs[0] != null" itemSize="50" class="configViewport">
+          <div *cdkVirtualFor="let log of user.logs" class="configLine">
+            <div class="row">
+              <div class="col text-uppercase">
+                <p>{{log.loginTime}}</p>
+              </div>
+              <div class="col">
+                <p>{{log.ipAddress}}</p>
+              </div>
+            </div>
+          </div>
+        </cdk-virtual-scroll-viewport>
+      </div>
+    </mat-expansion-panel>
+  </div>
+</div>
+<div class="card">
+  <div class="card-body">
+    <a (click)="openDialog()">
+      <i class="icon fa-solid fa-user-plus"></i>
+    </a>
+  </div>
+</div>
+</body>

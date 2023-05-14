@@ -1,0 +1,101 @@
+<body>
+<div class="text-end Search">
+  <input [(ngModel)]="searchedClient" type="text" name="search" class="InputSearch">
+  <i class="fa-solid fa-magnifying-glass"></i>
+</div>
+<div class="container"
+     infinite-scroll
+     (scrolled)="onScrollDown($event)">
+  <div *ngFor="let config of configs | ConfigsConfigSearch:searchedClient | slice:0:sum">
+    <mat-expansion-panel hideToggle class="configPanel">
+      <mat-expansion-panel-header class="configHeader">
+        <mat-panel-title class="text-uppercase ConfigNameHeader">
+          <div class="col name">
+            {{config.name}}
+          </div>
+          <div class="col">
+            {{config.createDate}}
+          </div>
+          <div class="col">
+            {{config.backUpType}}
+          </div>
+          <div class="buttons">
+            <a (click)="onClick($event); openDialog('Add', config, null)" class="buttonADD" mat-raised-button>ADD
+              CLIENTS</a>
+            <a (click)="onClick($event); EditConfig(config.id)" class="buttonEDIT" mat-raised-button>EDIT CONFIG</a>
+            <a (click)="onClick($event); openDialog('Remove',config, null)" class="buttonREM"
+               mat-raised-button>REMOVE</a>
+          </div>
+        </mat-panel-title>
+      </mat-expansion-panel-header>
+      <div class="container expand">
+        <div class="row">
+          <div class="col-5">
+            <div class="row">
+              <div class="col-5">
+                <h3>CREATOR:</h3>
+              </div>
+              <div class="col">
+                {{config.adminName}}
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-5">
+                <h3>RETENTION:</h3>
+              </div>
+              <div class="col">
+                {{config.retentionPackages}} {{config.backUpType != 'FB' ? ' / ' + config.retentionPackageSize : ''}}
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-5">
+                <h3>FREQUENCY:</h3>
+              </div>
+              <div class="col">
+                {{config.cron}}
+              </div>
+            </div>
+          </div>
+          <div class="col-4 sourceDest">
+            <div class="row">
+              <div class="col">
+                <h3>Sources</h3>
+                <cdk-virtual-scroll-viewport itemSize="25" class="sourcesViewport">
+                  <div *cdkVirtualFor="let source of config.sources" class="sourcesList">
+                    {{source}}
+                  </div>
+                </cdk-virtual-scroll-viewport>
+              </div>
+              <div class="col">
+                <h3>Destinations</h3>
+                <cdk-virtual-scroll-viewport itemSize="25" class="sourcesViewport">
+                  <div *cdkVirtualFor="let destination of config.destinations" class="sourcesList">
+                    {{destination.path}}
+                  </div>
+                </cdk-virtual-scroll-viewport>
+              </div>
+            </div>
+          </div>
+          <div class="col pcList">
+            <cdk-virtual-scroll-viewport itemSize="50" class="pcViewport">
+              <div *cdkVirtualFor="let pc of config.clientNames | keyvalue"
+                   class="pcList text-uppercase align-content-center">
+                <div class="row">
+                  <div class="col colName">
+                    <h3 class="name">{{pc.value}}</h3>
+                  </div>
+                  <div class="col">
+                    <a (click)="onClick($event); openDialog('RemoveClient', config, pc.key)" class="buttonREM"
+                       mat-raised-button>REMOVE CLIENT</a>
+                  </div>
+                </div>
+              </div>
+            </cdk-virtual-scroll-viewport>
+          </div>
+        </div>
+      </div>
+    </mat-expansion-panel>
+  </div>
+</div>
+
+</body>

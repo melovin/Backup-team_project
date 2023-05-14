@@ -1,0 +1,80 @@
+<body>
+  <div class="col text-end Filter">
+    <select [(ngModel)]="filterValue" class="InputSearch" matSelect name="Filter" id="filter">
+      <option value="none">None</option>
+      <option value="1">ACTIVE</option>
+      <option value="0">INACTIVE</option>
+    </select>
+    <i class="fa-solid fa-filter"></i>
+    <input [(ngModel)]="searchedClient" type="text" name="search" class="InputSearch">
+    <i matSuffix class="fa-solid fa-magnifying-glass"></i>
+  </div>
+  <div class="container content"
+      infinite-scroll
+       (scrolled)="onScrollDown($event)" >
+    <div *ngFor="let client of clients | ClientsClientFilter : searchedClient : filterValue | slice:0:sum">
+      <mat-expansion-panel hideToggle class="configPanel">
+        <mat-expansion-panel-header class="configHeader">
+          <mat-panel-title class="text-uppercase ClientNameHeader">
+            <div *ngIf="client.online" class="col-1 state online">
+              <i class="fa-solid fa-circle-dot"></i>
+            </div>
+            <div *ngIf="!client.online" class="col-1 state offline">
+              <i class="fa-solid fa-circle-dot"></i>
+            </div>
+            <div class="col-1 name">
+              {{client.name}}
+            </div>
+            <div *ngIf="client.active" class="col-2">
+              <mat-checkbox class="ActiveCheck" name="clientActive" (click)="onClick($event); isDirty = true; activeChange(client.id)" [(ngModel)]="client.active">Active</mat-checkbox>
+            </div>
+            <div *ngIf="!client.active" class="col-2">
+              <mat-checkbox class="InactiveCheck" name="clientActive" (click)="onClick($event); isDirty = true; activeChange(client.id)" [(ngModel)]="client.active">Inactive</mat-checkbox>
+            </div>
+            <div class="col ip">
+              {{client.ip}}
+            </div>
+            <div class="col mac">
+              {{client.mac}}
+            </div>
+            <div class="col">
+              CONFIGS: {{client.configs[0] != null ? client.configs.length : 0}}
+            </div>
+            <div class="buttons">
+              <a (click)="onClick($event); openDialog('client', client.id, 0)" class="buttonREM" mat-raised-button>REMOVE</a>
+            </div>
+          </mat-panel-title>
+        </mat-expansion-panel-header>
+        <div class="container expand">
+          <cdk-virtual-scroll-viewport *ngIf="client.configs[0] != null" itemSize="50" class="configViewport">
+            <div *cdkVirtualFor="let config of client.configs" class="configLine">
+              <div class="row">
+                <div class="col-2 text-uppercase">
+                  <p class="configName">{{config.name}}</p>
+                </div>
+                <div class="col">
+                  <p>{{config.adminName}}</p>
+                </div>
+                <div class="col">
+                  <p>{{config.createDate}}</p>
+                </div>
+                <div class="col">
+                  <p>{{config.backUpType}}</p>
+                </div>
+                <div class="col-3">
+                  <div class="buttons">
+                    <a (click)="onClick($event); editConfig(config.id)" class="buttonEDIT" mat-raised-button>EDIT CONFIG</a>
+                    <a (click)="onClick($event); openDialog('configFromClient', client.id, config.id)" class="buttonREM" mat-raised-button>REMOVE</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </cdk-virtual-scroll-viewport>
+        </div>
+      </mat-expansion-panel>
+    </div>
+  </div>
+  <div *ngIf="isDirty" class="Save">
+    <button (click)="saveActives()" mat-raised-button class="buttonEDIT">SAVE</button>
+  </div>
+</body>

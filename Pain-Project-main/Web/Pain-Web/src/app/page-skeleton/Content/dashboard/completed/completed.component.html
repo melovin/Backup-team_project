@@ -1,0 +1,24 @@
+<div class="container">
+  <div class="row">
+    <p class="problemslabel blue">COMPLETED</p>
+  </div>
+  <div class="row comp-awaits-width black">
+    <div class="container">
+      <cdk-virtual-scroll-viewport itemSize="72" class="scrollcompleteawaits">
+        <div class="row" *ngFor="let odd = odd;let complete of completed" [class.grayitem]="odd">
+          <div class="row itemheight scrollitem">
+            <div class="col-3">
+              <p class="short">{{complete.clientName}}</p>
+            </div>
+            <div class="col-3">
+              <p class="short">{{complete.configName}}</p>
+            </div>
+            <div class="col">
+              <p class="centeredtext">{{format_time(complete.date)}}</p>
+            </div>
+          </div>
+        </div>
+      </cdk-virtual-scroll-viewport>
+    </div>
+  </div>
+</div>

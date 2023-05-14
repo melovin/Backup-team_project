@@ -1,0 +1,83 @@
+label {
+  color: #0078D4;
+  padding-left: 2em;
+  font-size: 20px;
+}
+
+.row {
+  margin-top: 2em;
+}
+
+input, select {
+  color: var(--Font-color);
+  background-color: var(--Background-secondary);
+
+  &:focus {
+    color: var(--Font-color);
+    background-color: var(--Background-secondary);
+  }
+}
+
+.row.first, .row.second {
+  input {
+    border-radius: 7px;
+    height: 3vw;
+    font-size: 20px;
+  }
+}
+
+.row.third {
+  margin-left: 1vw;
+  margin-bottom: 5px;
+
+  .col.input {
+    margin-top: 1em;
+
+    .form-check-input {
+      height: 20px;
+      width: 20px;
+      margin-left: 5em;
+    }
+  }
+
+  .form-select {
+    width: 8vw;
+  }
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 3em;
+
+  button {
+    display: inline-block;
+    align-self: flex-end;
+    color: white;
+    width: 6em;
+    height: 35px;
+    border: none;
+    border-radius: 10px;
+  }
+
+  .submit {
+    background-color: var(--Submit);
+
+    &:hover, &:focus {
+      background-color: var(--SubmitFocus);
+    }
+  }
+
+  .cancel {
+    background-color: var(--Cancel);
+
+    &:hover, &:focus {
+      background-color: var(--CancelFocus);
+
+    }
+  }
+}
+
+.btn:focus {
+  box-shadow: none;
+}

@@ -1,0 +1,63 @@
+<body>
+  <div class="container configs">
+    <div *ngFor="let config of configs">
+      <mat-expansion-panel hideToggle class="configPanel " style=" ">
+        <mat-expansion-panel-header style="font-size: 25px;padding: 40px">
+          <mat-panel-title class="text-uppercase" style="color: #0078D4;">
+            {{config.name}}
+          </mat-panel-title>
+          <mat-panel-description>
+            <div class="col">
+              {{config.create_Date}}
+            </div>
+            <div class="col ">
+              {{config.backup_Type}}
+            </div>
+            <div class="buttons">
+              <button mat-raised-button style="background-color: #1C9C24; color: white; border-radius: 10px">ADD PC</button>
+              <button mat-raised-button style="margin-left: 30px;background-color: #1C9C24; color: white; border-radius: 10px">EDIT CONFIG</button>
+              <button mat-raised-button style="margin-left: 30px;background-color: red; color: white; border-radius: 10px">REMOVE</button>
+            </div>
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+          <div class="container expand">
+            <div class="row">
+              <div class="col-5">
+                <p>{{config.creator}}
+                <p>{{config.retention}}
+                <p>{{config.frequency}}
+              </div>
+              <div class="col-4" style="border-left: solid 1px black; border-right: solid 1px black">
+                <div class="row">
+                  <div class="col">
+                    <p>Sources</p>
+                    <div *ngFor="let source of config.sources">
+                      <p>{{source}}</p>
+                    </div>
+                  </div>
+                  <div class="col">
+                    <p>Destinations</p>
+                    <div *ngFor="let destination of config.destinations">
+                      <p>{{destination}}</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div *ngFor="let pc of config.PC">
+                  <div class="row" style="padding-bottom: 10px">
+                    <div class="col" style="font-size: 20px; text-align: center">
+                      <p>{{pc}}</p>
+                    </div>
+                    <div class="col">
+                      <button mat-raised-button style="margin-left: 30px;background-color: red; color: white; border-radius: 10px">REMOVE CLIENT</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+      </mat-expansion-panel>
+    </div>
+  </div>
+</body>
