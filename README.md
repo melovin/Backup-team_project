@@ -6,3 +6,5 @@
   * EMAIL SENDER
   * CRON 
  >Me, @TroliksMan and our classmate
+ 
+ >Database script and images coming soon :)
